@@ -1,0 +1,53 @@
+[33mcommit 75b23e1582b70c846825b3f402e2c97240d29b40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:22:45 2019 -0300
+
+    Adicionar a pasta media ao gitignore
+
+[33mcommit 9d0d077b07c0d13e561704658f08fca721f5cb27[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:17:31 2019 -0300
+
+    Adicionar pasta media ao gitignore
+
+[33mcommit 3741f68a903efc923ffe1e4983aee183da98872a[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:13:19 2019 -0300
+
+    migrar tabelas
+
+[33mcommit 5e89820eb86d01f7076cd5fc53b3ad9a06346e4f[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:04:39 2019 -0300
+
+    Adicionar rotas da pasta media
+
+[33mcommit 42c3904116cd280c8dcd101cd736d83fa393ba40[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:03:53 2019 -0300
+
+    registra vilao no admin
+
+[33mcommit d456a29a6df2b0febaacfbaf2ea1bb845dbd5d37[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:01:21 2019 -0300
+
+    Adicinando urls
+
+[33mcommit eb7c618d740a97d2ac7e5b3d2e0ff8e0983ab100[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 16:00:00 2019 -0300
+
+    Adiciona models
+
+[33mcommit 1693dddc32abfcbe81fad02264ad2b5bcdc1899a[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 15:59:17 2019 -0300
+
+    add views
+
+[33mcommit 554586f70abb14fbef333e6e7a5a83ff5e8c39d1[m
+Author: Bárbara <6abi.cardoso@gmail.com>
+Date:   Tue Jul 2 13:49:55 2019 -0300
+
+    criacao ambiente do app
