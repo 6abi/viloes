@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    color: #dae6f6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: #4989ED;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a{
+    color: #EE3796;
+    text-decoration: none;
+    font-size: 20px;
+}
